@@ -38,13 +38,6 @@
 
 ---
 
-### 📊 Customer Insights Analysis
-- Performed customer segmentation and behavior analysis  
-- Identified repeat customers and revenue patterns  
-- Generated insights for business growth  
-
----
-
 ## 📈 What I’m Currently Working On
 - Advanced SQL & Case Study Practice  
 - Building End-to-End Data Projects  
