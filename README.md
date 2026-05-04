@@ -33,7 +33,7 @@
 
 ### 💰 Smart Expense Tracker
 - Developed a system to track and analyze personal expenses  
-- Integrated Python + Power BI for automation  
+- Integrated Excel + Power BI for automation  
 - Helped in better financial decision-making  
 
 ---
