@@ -1,63 +1,61 @@
-Hi there, I'm Richa Goyal 👋
-Data Driven Business Analyst
-Transforming raw data into meaningful insights and smarter business decisions.
+# Hi 👋 I'm Richa Goyal  
 
+🎯 Data Driven Business Analyst  
+📊 Turning data into meaningful insights & business decisions  
 
+---
 
-🙋‍♀️ About Me
-I'm a passionate Data & Business Analyst with a strong interest in uncovering patterns, telling stories through data, and building dashboards that drive real decisions. I enjoy working at the intersection of data, business strategy, and visual communication.
+## 🚀 About Me
+- 📊 Passionate about Data Analysis & Business Intelligence  
+- 📈 Skilled in analyzing data to find trends & insights  
+- 💡 Love building dashboards that solve real-world problems  
+- 🔍 Currently improving my SQL & Data Analytics skills  
 
+---
 
+## 🛠️ Tools & Technologies
+- SQL  
+- Power BI  
+- Excel  
+- Python  
+- Data Visualization  
 
-🔍 Skilled at exploratory analysis, trend identification, and translating numbers into actionable insights
-📊 Experienced in building interactive dashboards that make complex data easy to understand
-📈 Continuously sharpening my SQL and data analytics skills through real-world case studies
-💡 Believe that the best analysis is one that actually gets used — clear, relevant, and decision-ready
+---
 
+## 📊 Featured Projects
 
+### 📈 Commerce Pulse Dashboard
+- Built an interactive Power BI dashboard to analyze sales & profit  
+- Identified top-performing categories and regions  
+- Provided actionable business insights  
 
+---
 
-🛠️ Tech Stack
-CategoryToolsQuerying & DataSQLVisualizationPower BI, ExcelProgrammingPythonOtherData Storytelling, Dashboard Design
+### 💰 Smart Expense Tracker
+- Developed a system to track and analyze personal expenses  
+- Integrated Python + Power BI for automation  
+- Helped in better financial decision-making  
 
-📂 Featured Projects
-📈 E-Commerce Sales Dashboard
+---
 
-Power BI | Sales Analytics | Business Insights
+### 📊 Customer Insights Analysis
+- Performed customer segmentation and behavior analysis  
+- Identified repeat customers and revenue patterns  
+- Generated insights for business growth  
 
-Built an interactive Power BI dashboard to analyze sales performance and profitability across an e-commerce dataset. Identified top-performing product categories and regions, and surfaced actionable insights to guide business strategy.
+---
 
+## 📈 What I’m Currently Working On
+- Advanced SQL & Case Study Practice  
+- Building End-to-End Data Projects  
+- Improving Data Visualization Skills  
 
+---
 
-💰 Smart Expense Tracker
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/richagoyal1705/
+- 🌐 Portfolio: https://richa-goyal-portfolio.vercel.app/
 
-Python | Power BI | Automation
+---
 
-Designed a personal finance tracking system that automates expense categorization and analysis. Combined Python for data processing with Power BI for visualization — enabling better financial awareness and decision-making.
-
-
-
-👥 Customer Insights Analysis
-
-Customer Segmentation | Behavioral Analysis | Revenue Trends
-
-Conducted in-depth customer segmentation to understand purchasing behavior, identify repeat customers, and uncover revenue patterns. Delivered insights aimed at improving customer retention and business growth
-
-
-
-🌱 Currently Working On
-
-✅ Advanced SQL queries & real-world case studies
-✅ Building end-to-end data projects (raw data → insight → decision)
-✅ Strengthening data visualization and storytelling skills
-
-
-
-
-📫 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/richagoyal1705/
-🌐 Portfolio: https://richa-goyal-portfolio.vercel.app/
-
-
-Open to learning, collaboration, and new opportunities — always! ⭐
+⭐ Always open to learning, collaboration, and new opportunities!
